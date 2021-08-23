@@ -5,6 +5,7 @@ An analysis was performed on weather trends for Oahu to determine if this locati
 The following charts and tables will give you an idea of how the weather is in Oahu year round as well as statistics for the both June and December.
 
 Looking at the precipitation graph below, we can see a range of dates starting with 08-23-2016 through 2017. This graph shows that precipitation does fluctuate but stays pretty low for the most part, with only a few large spikes that would cause for slow business. 
+
 ![percipitation](https://user-images.githubusercontent.com/83738699/130384474-c1dbba23-cad9-4c42-b4f7-8b485c9ba21a.PNG)
 
 When you take the following two months weather statistics the average temp for the months are between 71 and 75 with the max being 85 and below. Given this information the surf shop would do well year round and even during a cooler month ice cream would be a hit. 
